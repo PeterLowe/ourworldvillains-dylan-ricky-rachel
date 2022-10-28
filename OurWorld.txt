@@ -9,7 +9,7 @@ Compiled by Peter Lowe [PL] & Ricky Rechtackova [RR]
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [rr]git
+---- Canada [rr]
 Maple syrup am I right
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
