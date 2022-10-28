@@ -1,4 +1,5 @@
-Compiled by Peter Lowe [PL], Rachel O Connor [ROC]
+
+ Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
