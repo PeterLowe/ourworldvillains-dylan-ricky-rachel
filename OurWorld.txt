@@ -4,11 +4,9 @@
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [rr]
-Maple syrup am I right
 
----- Canada [ROC]
-Maple syrup.
+---- Canada [ROC], [RR]
+Maple syrup - am I right
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -22,6 +20,9 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
+
+---- Japan [ROC]
+Samurai go brrr
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
