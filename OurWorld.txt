@@ -5,8 +5,12 @@
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada [ROC], [RR]
-Maple syrup - am I right
+---- Canada [ROC], [RR], [DL]
+Maple syrup [ROC]
+Canada is a cool country in the Americans which has a population of 38.25 million [DL]
+Maple syrup am I right [rr]
+
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -19,6 +23,8 @@ Homeland of better beer
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+----- Madagascar [rr]
+Big trees <3
 
 ---- Algeria [ROC]
 Algeria, officially the People's Democratic Republic of Algeria, is a country in North Africa.
