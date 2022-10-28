@@ -10,7 +10,6 @@ Land of the free and the home of the brave.
 Canada is a cool country in the Americans which has a population of 38.25 million [DL]
 Maple syrup am I right [rr]
 
->>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -24,7 +23,8 @@ Spain has spicy food sometimes
 Home of the Pyramids
 ----- Madagascar [rr]
 Big trees <3
-
+---- The Gambia [DL]
+I went there once, painted a school
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
