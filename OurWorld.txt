@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Compiled by Peter Lowe [PL] & Ricky Rechtackova [RR]
-=======
- Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]
-
->>>>>>> dc228dd07c865fb17f11d7b0c00e84f29bb7ca5e
-
+Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
@@ -21,6 +15,8 @@ Homeland of good beer
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+----- Madagascar [rr]
+Big trees <3
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
