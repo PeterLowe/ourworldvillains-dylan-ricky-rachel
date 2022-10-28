@@ -1,14 +1,14 @@
 
  Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL], Ricky Rechtackova [RR]
 
+
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
-
 ---- Canada [ROC], [RR], [DL]
 Maple syrup [ROC]
 Canada is a cool country in the Americans which has a population of 38.25 million [DL]
-Maple syrup am I right [rr]
+
 
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
@@ -17,6 +17,8 @@ Ooh la la!
 
 ---- Czechia [rr]
 Homeland of good beer
+----Spain [DL]
+Spain has spicy food sometimes 
 
 ---- Ireland [ROC]
 Homeland of better beer
@@ -41,3 +43,5 @@ Samurai go brrr
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+----- New Zealand [rr]
+Nature
