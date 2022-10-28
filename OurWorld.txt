@@ -1,16 +1,11 @@
-
-Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]  & Ricky Rechtackova [RR]
-
-
+Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada
-Canada is a cool country in the Americans which has a population of 38.25 million [DL]
-Maple syrup am I right [rr]
+---- Canada [rr]
+Maple syrup am I right
 
->>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -33,3 +28,5 @@ Good food and pretty pink trees
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+----- New Zealand [rr]
+Nature
