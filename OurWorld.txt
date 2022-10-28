@@ -9,12 +9,14 @@ Compiled by Peter Lowe [PL] & Ricky Rechtackova [RR]
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [rr]
+---- Canada [rr]git
 Maple syrup am I right
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+---- Czechia [rr]
+Homeland of good beer
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
