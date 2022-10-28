@@ -1,10 +1,12 @@
-Compiled by Peter Lowe [PL]
+Compiled by Peter Lowe [PL], Rachel O Connor [ROC]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
+---- Canada [ROC]
+Maple syrup.
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
