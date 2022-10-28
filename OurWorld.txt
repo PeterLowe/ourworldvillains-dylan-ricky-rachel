@@ -5,7 +5,8 @@
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
-
+---- Canada
+Canada is a cool country in the Americans which has a population of 38.25 million [DL]
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
