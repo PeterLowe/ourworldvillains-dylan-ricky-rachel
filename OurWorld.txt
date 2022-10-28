@@ -1,3 +1,4 @@
+
 Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]  & Ricky Rechtackova [RR]
 
 
@@ -19,6 +20,8 @@ Homeland of good beer
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+----- Madagascar [rr]
+Big trees <3
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
