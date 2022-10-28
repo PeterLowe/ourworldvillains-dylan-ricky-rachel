@@ -1,19 +1,27 @@
-Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
+
+ Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL], Ricky Rechtackova [RR]
+
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [rr]
-Maple syrup am I right
+---- Canada [ROC], [RR], [DL]
+Maple syrup [ROC]
+Canada is a cool country in the Americans which has a population of 38.25 million [DL]
+
+
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+
 ---- Czechia [rr]
 Homeland of good beer
 ----Spain [DL]
 Spain has spicy food sometimes 
 
+---- Ireland [ROC]
+Homeland of better beer
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
@@ -21,6 +29,9 @@ Home of the Pyramids
 Big trees <3
 ---- The Gambia [DL]
 I went there once, painted a school
+---- Algeria [ROC]
+Algeria, officially the People's Democratic Republic of Algeria, is a country in North Africa.
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
@@ -29,9 +40,17 @@ Good food and pretty pink trees
 ------ Taiwan [DL]
 Some irish people move here for a cheaper life style
 
+---- Japan [ROC]
+Samurai go brrr
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+
+---- Australia [ROC]
+Kangaroo.
+
 ----- New Zealand [rr]
 Nature
+
