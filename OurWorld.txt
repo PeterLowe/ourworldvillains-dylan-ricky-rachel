@@ -1,11 +1,16 @@
-Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
+
+Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]  & Ricky Rechtackova [RR]
+
+
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [rr]
-Maple syrup am I right
+---- Canada
+Canada is a cool country in the Americans which has a population of 38.25 million [DL]
+Maple syrup am I right [rr]
 
+>>>>>>> master
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
