@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Compiled by Peter Lowe [PL] & Ricky Rechtackova [RR]
+=======
+ Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL]
+
+>>>>>>> dc228dd07c865fb17f11d7b0c00e84f29bb7ca5e
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
