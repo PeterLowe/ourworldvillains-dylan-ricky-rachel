@@ -5,11 +5,10 @@
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
+
 ---- Canada [ROC], [RR], [DL]
 Maple syrup [ROC]
 Canada is a cool country in the Americans which has a population of 38.25 million [DL]
-
-
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -29,21 +28,30 @@ Mamma Mia
 
 ---- Germany [ROC]
 Porsche is made in Stuttgart
+
+---- Romania [ROC]
+Idk what Romania is known for
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+
 ----- Madagascar [rr]
 Big trees <3
+
 ---- The Gambia [DL]
 I went there once, painted a school
+
 ---- Algeria [ROC]
 Algeria, officially the People's Democratic Republic of Algeria, is a country in North Africa.
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
+
 ------ Japan [rr]
 Good food and pretty pink trees
+
 ------ Taiwan [DL]
 Some irish people move here for a cheaper life style
 
