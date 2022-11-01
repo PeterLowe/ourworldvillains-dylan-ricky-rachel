@@ -37,6 +37,9 @@ They have sloth sanctuaries!!
 ---- Argentina [ROC]
 5th largest wine producers in the world
 
+---- Guatemala [rr]
+Highest number of volcanoes in Central America [rr]
+
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -68,8 +71,9 @@ A very neutral country [rr]
 ---- Portugal [DL]
 On average, Portugal is 50% cheaper to live in compared to the US. [DL]
 
----- Greece [DL]
+---- Greece [DL][rr]
 Day drinking wine in the sun is common here[DL]
+This is where Mamma Mia was filmed [rr]
 
 ---- Poland [DL]
 Having a friend from here is a good way to get cheap ciggies and alchohol [DL]
@@ -105,6 +109,9 @@ They're known for their handmade jewellery sold in their street markets
 ---- Kenya [ROC]
 kenya not
 
+---- Rwanda [rr]
+Does not experience water shortage [rr]
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
@@ -134,6 +141,9 @@ Apparently they've great street food
 ---- Malaysia [ROC]
 Full of orangutans <3
 
+---- Philippines [rr]
+Second largest archipelago made up of over 7,100 islands
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
@@ -149,8 +159,10 @@ Nature
 ----- Antarctica [rr]
 A lot of snow
 
-
 ---- Vactican city [DL]
 The pope lives here, not a cool guy
+
+---- Atlantic ocean [rr]
+Second largest ocean [rr]
 
 
