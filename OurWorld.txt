@@ -1,44 +1,152 @@
-Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
+
+ Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL], Ricky Rechtackova [RR]
+
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
+<<<<<<< HEAD
 ---- Canada [rr]
 Maple syrup am I right
 ---- Mexico [rr]
 Spicy food
+=======
+
+---- Canada [ROC], [RR], [DL]
+Maple syrup [ROC]
+Canada is a cool country in the Americans which has a population of 38.25 million [DL]
+
+---- Bolivia [ROC]
+Full of flamingos
+
+---- Mexico [DL]
+A good bit of breaking bad and better call saul was recorded here . [DL]
+
+---- Brazil [DL]
+Our irish bodies cannot handle the heat of the food from this mystical land. [DL]
+
+---- Puerto Rico [DL]
+Actress "Elizabeth Rodriguez" , famous for her roll as Aleida in orange is new black, is from Peurto Rico. [DL]
+
+---- Cuba [DL]
+I recommend watching Cuba and the Cameraman, it shows the changes of Cuba over the past few decades (on netflix) [DL]
+
+---- Colombia [ROC]
+Isn't this where Sofia Vergara is from?
+
+---- Costa Rica [ROC]
+They have sloth sanctuaries!!
+
+---- Argentina [ROC]
+5th largest wine producers in the world
+>>>>>>> master
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+
 ---- Czechia [rr]
 Homeland of good beer
-----Spain [DL]
+
+---- Spain [DL]
 Spain has spicy food sometimes 
 ---- Italy [rr]
 Colloseum
 
+---- Ireland [ROC]
+Homeland of better beer
+
+---- Italy [ROC]
+Mamma Mia
+
+---- Germany [ROC]
+Porsche is made in Stuttgart
+
+---- Romania [ROC]
+Dracula
+
+---- Switzerland [ROC]
+Idk but the flag is a huge plus
+
+---- Portugal [DL]
+On average, Portugal is 50% cheaper to live in compared to the US. [DL]
+
+---- Greece [DL]
+Day drinking wine in the sun is common here[DL]
+
+---- Poland [DL]
+Having a friend from here is a good way to get cheap ciggies and alchohol [DL]
+
+---- Belguim [DL]
+They have a cool NASA centre here with loads of space equipment [DL]
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+
 ----- Madagascar [rr]
 Big trees <3
 ----- Tunisia [rr]
 Beautiful folk markets
 
+---- The Gambia [DL]
+I went there once, painted a school
+
+---- Algeria [ROC]
+Algeria, officially the People's Democratic Republic of Algeria, is a country in North Africa.
+
+---- Chad [ROC]
+Idk but the name's pretty cool
+
+---- Morocco [ROC]
+They're known for their handmade jewellery sold in their street markets
+
+---- Kenya [ROC]
+kenya not
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
+
 ------ Japan [rr]
 Good food and pretty pink trees
 ------ South Korea [rr]
 Fastest wireless speeds on the planet
 
+------ Taiwan [DL]
+Some irish people move here for a cheaper life style
+
+---- Indonesia [ROC]
+This has Bali, what more could you want
+
+---- Vietnam [ROC]
+Cu Chi tunnels are pretty cool
+
+---- North Korea [ROC]
+Would not recommend
+
+---- Thailand [ROC]
+Apparently they've great street food
+
+---- Malaysia [ROC]
+Full of orangutans <3
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+
+---- Australia [ROC]
+Kangaroo.
+
 ----- New Zealand [rr]
 Nature
+<<<<<<< HEAD
 ----- Antarctica [rr]
 A lot of snow
+=======
+
+---- Vactican city [DL]
+The pope lives here, not a cool guy
+
+>>>>>>> master
