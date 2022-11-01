@@ -5,6 +5,8 @@ Compiled by Peter Lowe [PL], Rachel O Connor [ROC], Dylan Lawlor [DL
 Land of the free and the home of the brave.
 ---- Canada [rr]
 Maple syrup am I right
+---- Mexico [rr]
+Spicy food
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -13,18 +15,24 @@ Ooh la la!
 Homeland of good beer
 ----Spain [DL]
 Spain has spicy food sometimes 
+---- Italy [rr]
+Colloseum
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
 ----- Madagascar [rr]
 Big trees <3
+----- Tunisia [rr]
+Beautiful folk markets
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
 ------ Japan [rr]
 Good food and pretty pink trees
+------ South Korea [rr]
+Fastest wireless speeds on the planet
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -32,3 +40,5 @@ The only thing more unthinkable than leaving was staying;
 the only thing more impossible than staying was leaving.
 ----- New Zealand [rr]
 Nature
+----- Antarctica [rr]
+A lot of snow
