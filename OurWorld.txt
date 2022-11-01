@@ -6,21 +6,24 @@
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 
----- Canada [ROC], [RR], [DL]
+---- Canada [ROC], [rr], [DL]
 Maple syrup [ROC]
 Canada is a cool country in the Americans which has a population of 38.25 million [DL]
+Maple syrup am I right [rr]
 
 ---- Bolivia [ROC]
 Full of flamingos
 
----- Mexico [DL]
+---- Mexico [DL][rr]
 A good bit of breaking bad and better call saul was recorded here . [DL]
+Spicy food [rr]
 
 ---- Brazil [DL]
 Our irish bodies cannot handle the heat of the food from this mystical land. [DL]
 
----- Puerto Rico [DL]
+---- Puerto Rico [DL][rr]
 Actress "Elizabeth Rodriguez" , famous for her roll as Aleida in orange is new black, is from Peurto Rico. [DL]
+There's a song about it in West Side Story [rr]
 
 ---- Cuba [DL]
 I recommend watching Cuba and the Cameraman, it shows the changes of Cuba over the past few decades (on netflix) [DL]
@@ -33,6 +36,7 @@ They have sloth sanctuaries!!
 
 ---- Argentina [ROC]
 5th largest wine producers in the world
+
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -47,8 +51,9 @@ Spain has spicy food sometimes
 ---- Ireland [ROC]
 Homeland of better beer
 
----- Italy [ROC]
-Mamma Mia
+---- Italy [ROC][rr]
+Mamma Mia [ROC]
+Colloseum [rr]
 
 ---- Germany [ROC]
 Porsche is made in Stuttgart
@@ -56,8 +61,9 @@ Porsche is made in Stuttgart
 ---- Romania [ROC]
 Dracula
 
----- Switzerland [ROC]
-Idk but the flag is a huge plus
+---- Switzerland [ROC][rr]
+Idk but the flag is a huge plus[ROC]
+A very neutral country [rr]
 
 ---- Portugal [DL]
 On average, Portugal is 50% cheaper to live in compared to the US. [DL]
@@ -77,6 +83,12 @@ Home of the Pyramids
 
 ----- Madagascar [rr]
 Big trees <3
+
+----- Tunisia [rr]
+Beautiful folk markets
+
+----- Sudan [rr]
+A lot of conflicts
 
 ---- The Gambia [DL]
 I went there once, painted a school
@@ -112,14 +124,18 @@ Great Wall of China seen from space
 ------ Japan [rr]
 Good food and pretty pink trees
 
+------ South Korea [rr]
+Fastest wireless speeds on the planet
+
 ------ Taiwan [DL]
 Some irish people move here for a cheaper life style
 
 ---- Indonesia [ROC]
 This has Bali, what more could you want
 
----- Vietnam [ROC]
-Cu Chi tunnels are pretty cool
+---- Vietnam [ROC][rr]
+Cu Chi tunnels are pretty cool [ROC]
+They have pretty traditional clothes [rr]
 
 ---- North Korea [ROC]
 Would not recommend
@@ -135,12 +151,18 @@ Full of orangutans <3
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
 
----- Australia [ROC]
-Kangaroo.
+---- Australia [ROC][rr]
+Kangaroo.[ROC]
+Funny accent [rr]
 
 ----- New Zealand [rr]
 Nature
 
+----- Antarctica [rr]
+A lot of snow
+
+
 ---- Vactican city [DL]
 The pope lives here, not a cool guy
+
 
